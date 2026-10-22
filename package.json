@@ -11,13 +11,15 @@
     "url": "git+https://github.com/raphaeloliveira-dev/biblioteca.git"
   },
   "keywords": [],
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/raphaeloliveira-dev/biblioteca/issues"
   },
   "homepage": "https://github.com/raphaeloliveira-dev/biblioteca#readme",
   "dependencies": {
     "cors": "^2.8.6",
-    "express": "^5.3.0"
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6"
   }
 }
